@@ -1,0 +1,639 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+
+width: 70%;
+
+margin-left: 15%;
+
+overflow: hidden;
+
+margin-top: 30px;
+}
+.logo{
+
+float: left;
+
+overflow: hidden;
+
+width: 15%;
+}
+.logo img{
+
+}
+nav{
+
+float: left;
+
+width: 40%;
+
+/* margin-right: 10%; */
+
+overflow: hidden;
+}
+nav ul{
+    
+list-style: none;
+    
+float: left;
+    
+margin-left: 3px;
+    
+overflow: hidden;
+}
+nav ul li{
+    
+float: left;
+    
+margin-left: 18px;
+    
+margin-top: 10px;
+}
+nav ul li a{
+    
+text-decoration: none;
+    
+font-size: 20px;
+    
+text-transform: capitalize;
+}
+.theme{
+    
+float: right;
+}
+.minimal-content{
+
+width: 70%;
+
+margin-left: 15%;
+
+margin-top: 80px;
+
+overflow: hidden;
+}
+.left-content{
+
+float: left;
+
+margin-right: 20px;
+
+width: 45%;
+
+/* color: #292640; */
+
+/* font-size: 25px; */
+}
+.left-content h1{
+    
+text-align: left;
+    
+text-decoration: none;
+    
+text-transform: capitalize;
+    
+font-size: 40px;
+    
+color: #292640;
+}
+.left-content p{
+    
+color: #BBCAD8;
+    
+font-size: 18px;
+    
+margin-top: 20px;
+}
+.right-content{
+
+float: right;
+
+width: 45%;
+}
+.right-content img{
+    
+}
+.demo-section{
+
+width: 100%;
+
+margin-top: 20%;
+}
+.stunning-demo{
+
+text-align: center;
+
+margin-bottom: 5%;
+}
+.stunning-demo h1{
+    
+text-transform: capitalize;
+    
+color: #292640;
+    
+font-size: 25px;
+    
+font-weight: bolder;
+}
+.stunning-demo p{
+    
+color: #948F97;
+    
+font-style: italic;
+    
+font-size: 20px;
+}
+.demo-pictures{
+
+width: 96%;
+
+margin-left: 2%;
+
+/* margin-right: 2%; */
+
+overflow: hidden;
+
+margin-bottom: 20px;
+
+text-align: center;
+
+text-transform: capitalize;
+
+text-decoration-color: black;
+}
+
+.demo-one{
+
+width: 20%;
+
+float: left;
+}
+.demo-one img{
+
+}
+.demo-one h3{
+
+}
+.demo-two{
+
+float: left;
+
+width: 20%;
+
+margin-left: 8%;
+}
+.demo-two img{
+
+}
+.demo-two h3{
+
+}
+.demo-three{
+
+width: 20%;
+
+float: left;
+
+margin-left: 8%;
+}
+.demo-three img{
+
+}
+.demo-three h3{
+
+}
+.demo-four{
+
+width: 20%;
+
+float: right;
+}
+.demo-four img{
+
+}
+.demo-four h3{
+
+}
+.features-section{
+
+width: 70%;
+
+margin-left: 15%;
+
+margin-top: 25%;
+}
+.main-feature{
+
+text-align: center;
+
+margin-bottom: 10%;
+}
+.main-feature h1{
+    
+text-transform: capitalize;
+    
+color: #292640;
+    
+font-size: 30px;
+    
+font-weight: 900;
+}
+.main-feature h3{
+    
+color: #8F98AF;
+    
+font-size: 20px;
+    
+font-style: italic;
+}
+.top-features{
+
+}
+.features-one{
+
+}
+.features-one img{
+    
+}
+.features-two{
+
+}
+.features-two img{
+    
+}
+.features-three{
+
+}
+.features-three img{
+    
+}
+.bottom-features{
+
+}
+.features-four{
+
+}
+.features-four img{
+    
+}
+.features-five{
+
+}
+.features-five img{
+    
+}
+.features-six{
+
+margin-left: 2%;
+}
+.features-six img{
+    
+}*{
+    margin: 0;
+    padding: 0;
+}
+header{
+
+width: 70%;
+
+margin-left: 15%;
+
+overflow: hidden;
+
+margin-top: 30px;
+}
+.logo{
+
+float: left;
+
+overflow: hidden;
+
+width: 15%;
+}
+.logo img{
+
+}
+nav{
+
+float: left;
+
+width: 40%;
+
+/* margin-right: 10%; */
+
+overflow: hidden;
+}
+nav ul{
+    
+list-style: none;
+    
+float: left;
+    
+margin-left: 3px;
+    
+overflow: hidden;
+}
+nav ul li{
+    
+float: left;
+    
+margin-left: 18px;
+    
+margin-top: 10px;
+}
+nav ul li a{
+    
+text-decoration: none;
+    
+font-size: 20px;
+    
+text-transform: capitalize;
+}
+.theme{
+    
+float: right;
+}
+.minimal-content{
+
+width: 70%;
+
+margin-left: 15%;
+
+margin-top: 80px;
+
+overflow: hidden;
+}
+.left-content{
+
+float: left;
+
+margin-right: 20px;
+
+width: 45%;
+
+/* color: #292640; */
+
+/* font-size: 25px; */
+}
+.left-content h1{
+    
+text-align: left;
+    
+text-decoration: none;
+    
+text-transform: capitalize;
+    
+font-size: 40px;
+    
+color: #292640;
+}
+.left-content p{
+    
+color: #BBCAD8;
+    
+font-size: 18px;
+    
+margin-top: 20px;
+}
+.right-content{
+
+float: right;
+
+width: 45%;
+}
+.right-content img{
+    
+}
+.demo-section{
+
+width: 90%;
+
+margin-top: 20%;
+}
+.stunning-demo{
+
+text-align: center;
+
+margin-bottom: 5%;
+}
+.stunning-demo h1{
+    
+text-transform: capitalize;
+    
+color: #292640;
+    
+font-size: 25px;
+    
+font-weight: bolder;
+}
+.stunning-demo p{
+    
+color: #948F97;
+    
+font-style: italic;
+    
+font-size: 20px;
+}
+.demo-pictures{
+
+width: 100%;
+
+margin-left: 5%;
+
+margin-right: 5%;
+
+overflow: hidden;
+
+margin-bottom: 20px;
+
+text-align: center;
+
+text-transform: capitalize;
+
+text-decoration-color: black;
+}
+
+.demo-one{
+
+width: 20%;
+
+float: left;
+}
+.demo-one img{
+
+width: 100%;
+
+margin-left: 18%;
+}
+.demo-one h3{
+
+}
+.demo-two{
+
+float: left;
+
+width: 20%;
+
+margin-left: 10%;
+}
+.demo-two img{
+
+width: 100%;
+}
+.demo-two h3{
+
+}
+.demo-three{
+
+width: 20%;
+
+float: left;
+
+margin-left: 5%;
+}
+.demo-three img{
+
+width: 100%;
+}
+.demo-three h3{
+
+}
+.demo-four{
+
+width: 20%;
+
+float: right;
+}
+.demo-four img{
+
+width: 100%;
+}
+.demo-four h3{
+
+}
+.features-section{
+
+width: 70%;
+
+margin-top: 25%;
+
+margin-left: 10%;
+
+margin-right: 10%;
+}
+.main-feature{
+
+padding-left: 100px;
+
+text-align: center;
+
+margin-bottom: 10%;
+}
+.main-feature h1{
+    
+text-transform: capitalize;
+    
+color: #292640;
+    
+font-size: 30px;
+    
+font-weight: 900;
+    
+text-align: center;
+    
+padding-left: 100px;
+}
+.main-feature h3{
+    
+color: #8F98AF;
+    
+font-size: 20px;
+    
+font-style: italic;
+    
+text-align: center;
+    
+padding-left: 100px;
+}
+.top-features{
+
+display: flex;
+
+justify-content: space-between;
+}
+.features-one{
+}
+.features-one img{}
+.features-two{margin-left: 2%;}
+.features-two img{
+    
+}
+.features-three{margin-left: 2%;}
+.features-three img{
+    
+}
+.bottom-features{
+
+display: flex;
+
+justify-content: space-between;
+
+margin-top: 2%;
+
+margin-bottom: 10%;
+}
+.features-four{
+}
+.features-four img{
+    
+}
+.features-five{
+
+margin-left: 2%;
+}
+.features-five img{
+    
+}
+.features-six{
+
+}
+.features-six img{
+    
+}
+.footer{
+
+background-color: #292640;
+
+height: 400px;
+
+margin-bottom: 50px;
+}
+.footer h1{
+    
+color: white;
+    
+font-size: 30px;
+    
+text-align: center;
+    
+padding-top: 50px;
+    
+font-weight: 800;
+}
+.img{
+
+text-align: center;
+
+padding: 35px 0;
+}
+.img img{
+    
+}
+.img-logo{
+
+text-align: center;
+}
+.img-logo img{
+    
+}
